@@ -1,6 +1,6 @@
  # 5  . CREATE SOCKET FOR HTTP FOR WEBPAGE UPLOAD AND DOWNLOAD
- ### NAME: KARTHIKEYAN R
-### REG.NO: 212222240046
+ ### NAME: YOGESHWARAN A
+### REG.NO: 212223040249
 ## Aim :
 To write a PYTHON program for socket for HTTP for web page upload and download.
 
